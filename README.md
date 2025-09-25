@@ -56,10 +56,6 @@ This **Alumni Management System** provides a centralized, web-based platform tha
 2. Connect repository to Netlify
 3. Deploy automatically - no configuration needed!
 
-## Default Login
-- **Email**: admin@alumni.edu
-- **Password**: admin123
-
 ## Data Storage
 - All data is stored in browser's localStorage
 - Data persists between sessions
@@ -118,3 +114,4 @@ Created for educational institutions to solve the alumni data management problem
 ---
 
 **Made with ❤️ to solve real institutional problems**
+
